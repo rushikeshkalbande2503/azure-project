@@ -21,13 +21,14 @@ The project will primarily utilize the "Olympic2023" dataset, which contains com
 <b>1.Code and Pipeline Testing:</b><br>
 Ensure that your data engineering code, ETL processes, and data pipelines are thoroughly tested in a development or test environment before deployment.
 <img src="https://github.com/rushikeshkalbande2503/azure-project/blob/main/output/outputs/some.png"></img>
-<img src=""></img>
+
 <b>2.Data Preparation:</b> <br>
 Prepare the data for deployment, including data cleaning, transformation, and validation, as necessary.
 
+
 <b>3.Azure Resource Provisioning:</b> <br>
 Provision or configure the necessary Azure resources, including Azure Data Factory, Azure Databricks, Azure Synapse, and Azure Storage, to host your data engineering solutions.
-
+<img src="https://github.com/rushikeshkalbande2503/azure-project/blob/main/output/outputs/2.png"></img>
 <b>4.Database Setup:</b> <br>
 Setting Up database in azure synapsis.
 
