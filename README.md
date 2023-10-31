@@ -20,7 +20,8 @@ The project will primarily utilize the "Olympic2023" dataset, which contains com
 <h1>Steps followed While Deploying :</h1>
 <b>1.Code and Pipeline Testing:</b><br>
 Ensure that your data engineering code, ETL processes, and data pipelines are thoroughly tested in a development or test environment before deployment.
-
+<img src="https://github.com/rushikeshkalbande2503/azure-project/blob/main/output/outputs/some.png"></img>
+<img src=""></img>
 <b>2.Data Preparation:</b> <br>
 Prepare the data for deployment, including data cleaning, transformation, and validation, as necessary.
 
