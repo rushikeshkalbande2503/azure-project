@@ -37,6 +37,9 @@ Ingest the data from  sources into the Azure storage or data warehouse, typicall
 
 <b>7.Created Dashboard Based on the data that we gathered in the transformed_data directory.</b> 
 
+<h1>Implementation Video Link:</h1>
+https://drive.google.com/file/d/1d3bgRLW-THM4Y7TSmcA7rBkMKBYcYavW/view?usp=sharing
+
 
 
 
