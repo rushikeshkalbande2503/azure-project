@@ -44,6 +44,9 @@ https://drive.google.com/file/d/1d3bgRLW-THM4Y7TSmcA7rBkMKBYcYavW/view?usp=shari
 
 
 <h1>project Visualization:</h1>
+<img src="https://github.com/rushikeshkalbande2503/azure-project/blob/main/output/outputs/powerbi1.png"></img>
+<img src="https://github.com/rushikeshkalbande2503/azure-project/blob/main/output/outputs/powerbi2.png"></img>
+<img src="https://github.com/rushikeshkalbande2503/azure-project/blob/main/output/outputs/powerbi3.png"></img>
 
 
 
